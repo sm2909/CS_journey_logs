@@ -8,4 +8,4 @@
 
 ### Concepts / Topics studied:
 
-->CSS Grid: display:grid/inline-grid, grid-template-columns/rows, grid-column/row-gap, justify/align-content/items
+->CSS Grid: display:grid/inline-grid, grid-template-columns/rows, grid-column/row-gap, justify/align-content/items, grid-auto-flow, grid-auto-column/row, grid-start/end-column/row, justify/align-self
