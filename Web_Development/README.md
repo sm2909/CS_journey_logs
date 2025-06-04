@@ -9,3 +9,9 @@
 ### Concepts / Topics studied:
 
 ->CSS Grid: display:grid/inline-grid, grid-template-columns/rows, grid-column/row-gap, justify/align-content/items, grid-auto-flow, grid-auto-column/row, grid-start/end-column/row, justify/align-self
+
+## Day 03: 02-06-2025
+
+### Concepts / Topics studied:
+
+-> Made a clone of Netflix landing page from scratch using plain HTML/CSS.
