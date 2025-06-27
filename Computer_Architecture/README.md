@@ -2,5 +2,5 @@
 
 ### Concepts / Topics studied:
 
-->CMOS transistors\n
+->CMOS transistors <br>
 -> Universal logic gates: NAND, NOR
