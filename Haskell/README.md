@@ -2,5 +2,5 @@
 
 ### Concepts / Topics studied:
 
-->User defined Data types lecture
+->User defined Data types lecture\n
 -> Solved 2 easy problems + 1 medium problem
