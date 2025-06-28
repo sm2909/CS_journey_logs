@@ -15,3 +15,10 @@
 ### Concepts / Topics studied:
 
 -> Made a clone of Netflix landing page from scratch using plain HTML/CSS.
+
+## Day 04: 28-06-2025
+
+### Concepts / Topics studied:
+
+-> Started learning react <br>
+-> Functional Components in react

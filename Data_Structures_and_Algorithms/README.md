@@ -12,8 +12,8 @@
 
 ### Concepts / Topics covered:
 
--> Linked lists: Two pointers pattern (slow and fast)
--> Floyd's two pointer algorithm for identifying cycles in linked lists
+-> Linked lists: Two pointers pattern (slow and fast) <br>
+-> Floyd's two pointer algorithm for identifying cycles in linked lists <br>
 -> Finding middle node of a linked list
 
 ### Problems solved (leetcode):
