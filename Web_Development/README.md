@@ -22,3 +22,12 @@
 
 -> Started learning react <br>
 -> Functional Components in react
+
+## Day 05: 29-06-2025
+
+### Concepts / Topics studied:
+
+-> Click events handling <br>
+-> 'useState' hook application <br>
+-> 'useState' usage with lists <br>
+-> Props: passing arguments from parent to child components
