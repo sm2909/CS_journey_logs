@@ -10,3 +10,9 @@
 ### Concepts / Topics studied:
 
 ->Recursive Data types lecture: learnt how to make binary trees
+
+## Day 03: 30-06-2025
+
+### Concepts / Topics studied:
+
+-> Solved 1 easy problem + 2 medium problems
