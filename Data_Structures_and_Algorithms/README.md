@@ -20,3 +20,9 @@
 
 141. Linked List Cycle (easy)
 142. Middle of the Linked List (easy)
+
+## Day 03 : 05-07-2025
+
+### Concepts / Topics covered:
+
+-> Binary Tree traversal methods: in order, pre order, post order, level order (BFS)
