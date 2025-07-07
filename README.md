@@ -6,5 +6,5 @@ Following are the topics / technologies that I am trying to explore:
 
 1. Web Development (HTML / CSS / javascript / react / bootstrap)
 2. Data Structures and Algorithms
-3. Haskell (function programming language)
+3. Haskell (Functional programming language)
 4. Computer Architecture (Assembly language programming)
