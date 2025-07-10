@@ -31,8 +31,8 @@
 
 ### Problems solved (leetcode):
 
--> Binary Tree Inorder Traversal (easy)
--> Binary Tree Preorder Traversal (easy)
--> Binary Tree Postorder Traversal (easy)
--> Maximum Depth of Binary Tree (easy)
+-> Binary Tree Inorder Traversal (easy) <br>
+-> Binary Tree Preorder Traversal (easy) <br>
+-> Binary Tree Postorder Traversal (easy) <br>
+-> Maximum Depth of Binary Tree (easy) <br>
 -> Same Tree (easy)

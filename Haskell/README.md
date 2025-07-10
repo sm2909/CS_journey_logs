@@ -16,3 +16,9 @@
 ### Concepts / Topics studied:
 
 -> Solved 1 easy problem + 2 medium problems
+
+## Day 04: 10-07-2025
+
+### Concepts / Topics studied:
+
+-> Solved 1 medium problem
