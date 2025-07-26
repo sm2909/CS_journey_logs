@@ -4,15 +4,24 @@ This is a github repo where I will track my CS learning journey over the semeste
 
 Following are the topics / technologies that I am trying to explore:
 
-1. Web Development (HTML / CSS / javascript / react / bootstrap)
+1. Web Development (HTML / CSS / javascript / react / tailwind css)
 2. Data Structures and Algorithms
 3. Haskell (Functional programming language)
 4. Computer Architecture (Assembly language programming)
 
-Upcoming stuff:
+Awesome resources ->
 
-1. Monads in haskell
-2. Medium level problem solving wrt binary trees
-3. React intermediate concepts
-4. Git/ Github remaining part completion
-5. Web Dev personal project (To be announced soon)
+HTML/CSS/Javascript: Apna college youtube videos
+React: Dave gray youtube video
+Tailwind css: just build a random webpage (eg. portfolio) and learn in parallel with help of chatGPT (correlating with vanilla css)
+
+Haskell:
+NPTEL course on haskell (1st half is very good for getting basics strong)
+learn you a haskell for great good book (free resource available on web)
+Excercism excercises for practice
+
+Computer architecture:
+Youtube playlist by Smruti Sarangi
+
+DSA:
+learn individual topics from chatGPT

@@ -21,4 +21,10 @@
 
 ### Concepts / Topics studied:
 
+-> Solved 2 medium problems
+
+## Day 05: 15-07-2025
+
+### Concepts / Topics studied:
+
 -> Solved 1 medium problem

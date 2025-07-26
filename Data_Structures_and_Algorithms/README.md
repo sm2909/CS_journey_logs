@@ -36,3 +36,15 @@
 -> Binary Tree Postorder Traversal (easy) <br>
 -> Maximum Depth of Binary Tree (easy) <br>
 -> Same Tree (easy)
+
+## Day 05 : 11-07-2025
+
+### Problems solved (leetcode):
+
+-> Binary Tree Level Order Traversal (medium) <br>
+
+## Day 06 : 12-07-2025
+
+### Problems solved (leetcode):
+
+-> Binary Tree Level Order Traversal II (medium) <br>
